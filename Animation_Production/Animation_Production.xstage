@@ -178,7 +178,7 @@
     <dwg name="39"/>
    </drawings>
   </element>
-  <element id="23" elementName="Title" elementFolder="Title" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+  <element id="23" elementName="Mosquito" elementFolder="Mosquito" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
     <dwg name="1"/>
     <dwg name="2"/>
@@ -222,7 +222,6 @@
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="1-24" val="1" id="1"/>
-     <elementSeq exposures="60-72" val="3" id="1"/>
      <elementSeq exposures="73-84" val="4" id="1"/>
      <elementSeq exposures="85-97" val="5" id="1"/>
      <elementSeq exposures="98-107" val="6" id="1"/>
@@ -316,8 +315,8 @@
     <column type="0" name="ATV-0939152680869847" displayOrder="0" width="100" anonymous="true" id="18">
      <elementSeq exposures="421-430" val="1" id="18"/>
     </column>
-    <column type="0" name="ATV-093C2302D06A6032" display="false" displayOrder="0" width="100" anonymous="true" id="21">
-     <elementSeq exposures="1-24,25-60" val="1" id="21"/>
+    <column type="0" name="ATV-093C2302D06A6032" displayOrder="0" width="100" anonymous="true" id="21">
+     <elementSeq exposures="1-24,25-86" val="1" id="21"/>
     </column>
     <column type="0" name="ATV-093C2543F97094A4" displayOrder="0" width="100" anonymous="true" id="22">
      <elementSeq exposures="1" val="4" id="22"/>
@@ -398,8 +397,7 @@
       <pt constSeg="false" x="1-27" yLocal="0" y="0"/>
      </points>
     </column>
-    <column type="0" name="ATV-093C4E16C994B909" displayOrder="0" width="100" anonymous="true" id="23">
-     <elementSeq exposures="31-63" val="2" id="23"/>
+    <column type="0" name="Mosquito" displayOrder="0" width="100" anonymous="true" id="23">
      <elementSeq exposures="64" val="13" id="23"/>
      <elementSeq exposures="65" val="14" id="23"/>
      <elementSeq exposures="66" val="15" id="23"/>
@@ -408,56 +406,60 @@
      <elementSeq exposures="69" val="19" id="23"/>
      <elementSeq exposures="70" val="20" id="23"/>
      <elementSeq exposures="71" val="21" id="23"/>
-     <elementSeq exposures="72-85" val="12" id="23"/>
-     <elementSeq exposures="86" val="6" id="23"/>
+     <elementSeq exposures="72" val="12" id="23"/>
     </column>
     <column type="3" name="ATV-093C4E16C995018D" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="0" y="0"/>
+      <pt constSeg="false" x="72" yLocal="-4.0476093310029109" y="-4.0476093310029109"/>
+      <pt constSeg="false" x="69" yLocal="-4.04760933100291" y="-4.04760933100291"/>
+      <pt constSeg="false" x="68" yLocal="-4.0476093310029091" y="-4.0476093310029091"/>
+      <pt constSeg="false" x="65-67" yLocal="-4.0476093310029082" y="-4.0476093310029082"/>
+      <pt constSeg="false" x="71" yLocal="-4.0476093310029073" y="-4.0476093310029073"/>
+      <pt constSeg="false" x="70" yLocal="-4.0476093310029055" y="-4.0476093310029055"/>
      </points>
     </column>
     <column type="3" name="ATV-093C4E16C995018E" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="0" y="0"/>
+      <pt constSeg="false" x="65-72" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C4E16C995018F" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="0" y="0"/>
+      <pt constSeg="false" x="65-72" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C4E16C9950190" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="0" y="0"/>
+      <pt constSeg="false" x="65-72" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C4E16C9950191" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="1" y="1"/>
+      <pt constSeg="false" x="65-72" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-093C4E16C9950192" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="1" y="1"/>
+      <pt constSeg="false" x="65-72" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-093C4E16C9950193" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="30,64-72,86" yLocal="0" y="0"/>
+      <pt constSeg="false" x="65-72" yLocal="0" y="0"/>
      </points>
     </column>
    </columns>
@@ -634,7 +636,6 @@
      </module>
      <module type="READ" name="1" pos="0,0,0" publishUnderTab="1">
       <options>
-       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -2298,7 +2299,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="Title" pos="0,0,0" publishUnderTab="Title">
+     <module type="READ" name="Mosquito" pos="0,0,0" publishUnderTab="Title">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -2358,7 +2359,7 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
-        <element col="ATV-093C4E16C994B909">
+        <element col="Mosquito">
          <layer/>
         </element>
         <customName>
@@ -2429,7 +2430,7 @@
      <link out="16" in="Composite" inport="1"/>
      <link out="18" in="Composite" inport="0"/>
      <link out="Line" in="Composite" inport="15"/>
-     <link out="Title" in="Composite" inport="16"/>
+     <link out="Mosquito" in="Composite" inport="16"/>
     </linkedlist>
    </rootgroup>
    <unconnectedComposite>
