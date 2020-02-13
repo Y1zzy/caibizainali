@@ -62,9 +62,6 @@
   <Drawing Key="" Name="59" Version="1"/>
   <Drawing Key="" Name="60" Version="1"/>
  </Element>
- <Element Name="3" ID="6" Folder="3">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
  <Element Name="4" ID="7" Folder="4">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
@@ -145,6 +142,9 @@
   <Drawing Key="" Name="38" Version="1"/>
   <Drawing Key="" Name="39" Version="1"/>
   <Drawing Key="" Name="40" Version="1"/>
+  <Drawing Key="" Name="41" Version="1"/>
+  <Drawing Key="" Name="42" Version="1"/>
+  <Drawing Key="" Name="43" Version="1"/>
  </Element>
  <Element Name="Mosquito" ID="23" Folder="Mosquito">
   <Drawing Key="" Name="1" Version="1"/>
@@ -177,5 +177,8 @@
   <Drawing Key="" Name="28" Version="1"/>
   <Drawing Key="" Name="29" Version="1"/>
   <Drawing Key="" Name="30" Version="1"/>
+ </Element>
+ <Element Name="2" ID="24" Folder="2">
+  <Drawing Key="" Name="1" Version="1"/>
  </Element>
 </SceneVersion>
