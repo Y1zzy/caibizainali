@@ -222,6 +222,25 @@
     <dwg name="92"/>
     <dwg name="93"/>
     <dwg name="94"/>
+    <dwg name="95"/>
+    <dwg name="96"/>
+    <dwg name="97"/>
+    <dwg name="98"/>
+    <dwg name="99"/>
+    <dwg name="100"/>
+    <dwg name="101"/>
+    <dwg name="102"/>
+    <dwg name="103"/>
+    <dwg name="104"/>
+    <dwg name="105"/>
+    <dwg name="106"/>
+    <dwg name="107"/>
+    <dwg name="108"/>
+    <dwg name="109"/>
+    <dwg name="110"/>
+    <dwg name="111"/>
+    <dwg name="112"/>
+    <dwg name="113"/>
    </drawings>
   </element>
   <element id="23" elementName="Mosquito" elementFolder="Mosquito" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -286,8 +305,7 @@
   <scene name="Top" id="0938c647181629de" nbframes="1249" startFrame="1" stopFrame="1249">
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
-     <elementSeq exposures="137-144" val="7" id="1"/>
-     <elementSeq exposures="145-167" val="8" id="1"/>
+     <elementSeq exposures="164-167" val="8" id="1"/>
      <elementSeq exposures="168-179" val="9" id="1"/>
      <elementSeq exposures="180" val="10" id="1"/>
      <elementSeq exposures="181-240" val="11" id="1"/>
@@ -345,9 +363,7 @@
     <column type="0" name="ATV-0938C64718193DEE" displayOrder="0" width="100" anonymous="true" id="8"/>
     <column type="0" name="ATV-0938C647181A02E6" displayOrder="0" width="100" anonymous="true" id="10"/>
     <column type="0" name="ATV-0938C647181AD158" displayOrder="0" width="100" anonymous="true" id="11"/>
-    <column type="0" name="ATV-0938C647181B4E6B" displayOrder="0" width="100" anonymous="true" id="12">
-     <elementSeq exposures="145-167" val="1" id="12"/>
-    </column>
+    <column type="0" name="ATV-0938C647181B4E6B" displayOrder="0" width="100" anonymous="true" id="12"/>
     <column type="0" name="ATV-0938C647181C7978" displayOrder="0" width="100" anonymous="true" id="13">
      <elementSeq exposures="181-240" val="1" id="13"/>
     </column>
@@ -408,7 +424,7 @@
      <elementSeq exposures="107" val="59" id="22"/>
      <elementSeq exposures="108" val="60" id="22"/>
      <elementSeq exposures="109" val="61" id="22"/>
-     <elementSeq exposures="110" val="62" id="22"/>
+     <elementSeq exposures="110" val="96" id="22"/>
      <elementSeq exposures="111" val="54" id="22"/>
      <elementSeq exposures="112" val="68" id="22"/>
      <elementSeq exposures="113" val="69" id="22"/>
@@ -436,54 +452,66 @@
      <elementSeq exposures="135" val="93" id="22"/>
      <elementSeq exposures="136" val="94" id="22"/>
      <elementSeq exposures="137" val="88" id="22"/>
+     <elementSeq exposures="138" val="99" id="22"/>
+     <elementSeq exposures="139" val="100" id="22"/>
+     <elementSeq exposures="140" val="101" id="22"/>
+     <elementSeq exposures="141,142" val="98" id="22"/>
+     <elementSeq exposures="143,144-146" val="109" id="22"/>
+     <elementSeq exposures="147" val="105" id="22"/>
+     <elementSeq exposures="148" val="106" id="22"/>
+     <elementSeq exposures="149" val="107" id="22"/>
+     <elementSeq exposures="150" val="103" id="22"/>
+     <elementSeq exposures="151" val="111" id="22"/>
+     <elementSeq exposures="152" val="112" id="22"/>
+     <elementSeq exposures="153,154,155" val="113" id="22"/>
     </column>
     <column type="3" name="ATV-093C47C65F297C85" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C86" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C87" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C88" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C89" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C8A" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="1" y="1"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C8B" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-137" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="0" name="Mosquito" displayOrder="0" width="100" anonymous="true" id="23">
@@ -558,7 +586,7 @@
      </points>
     </column>
     <column type="0" name="ATV-093CF8E6B10DC889" displayOrder="0" width="100" anonymous="true" id="24">
-     <elementSeq exposures="81-111" val="1" id="24"/>
+     <elementSeq exposures="81-111,138-155" val="1" id="24"/>
     </column>
     <column type="0" name="ATV-093D4474D26C15CE" displayOrder="0" width="100" anonymous="true" id="25">
      <elementSeq exposures="112-137" val="1" id="25"/>
