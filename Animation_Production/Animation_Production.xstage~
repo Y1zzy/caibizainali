@@ -242,6 +242,11 @@
     <dwg name="112"/>
     <dwg name="113"/>
     <dwg name="114"/>
+    <dwg name="115"/>
+    <dwg name="116"/>
+    <dwg name="117"/>
+    <dwg name="118"/>
+    <dwg name="119"/>
    </drawings>
   </element>
   <element id="23" elementName="Mosquito" elementFolder="Mosquito" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -466,55 +471,64 @@
      <elementSeq exposures="151" val="111" id="22"/>
      <elementSeq exposures="152" val="112" id="22"/>
      <elementSeq exposures="153,154,155" val="113" id="22"/>
-     <elementSeq exposures="156" val="114" id="22"/>
+     <elementSeq exposures="156" val="116" id="22"/>
+     <elementSeq exposures="157" val="118" id="22"/>
+     <elementSeq exposures="158" val="119" id="22"/>
+     <elementSeq exposures="159" val="115" id="22"/>
     </column>
     <column type="3" name="ATV-093C47C65F297C85" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
+      <pt constSeg="false" x="157" yLocal="-9.2849240298989015e-17" y="-9.2849240298989015e-17"/>
+      <pt constSeg="false" x="1-27,80-144,147-156,158-159" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C86" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-156,158-159" yLocal="0" y="0"/>
+      <pt constSeg="false" x="157" yLocal="1.4916187057432337e-17" y="1.4916187057432337e-17"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C87" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
+      <pt constSeg="false" x="1-27,80-144,147-159" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C88" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
+      <pt constSeg="false" x="157" yLocal="-0.17057635281282724" y="-0.17057635281282724"/>
+      <pt constSeg="false" x="1-27,80-144,147-156,158-159" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C89" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="1" y="1"/>
+      <pt constSeg="false" x="157" yLocal="0.999999999999998" y="0.999999999999998"/>
+      <pt constSeg="false" x="1-27,80-144,147-156,158-159" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C8A" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="1" y="1"/>
+      <pt constSeg="false" x="157" yLocal="0.99999999999999922" y="0.99999999999999922"/>
+      <pt constSeg="false" x="1-27,80-144,147-156,158-159" yLocal="1" y="1"/>
      </points>
     </column>
     <column type="3" name="ATV-093C47C65F297C8B" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
      <noFrames/>
      <points version="2">
-      <pt constSeg="false" x="1-27,80-144,147-155" yLocal="0" y="0"/>
+      <pt constSeg="false" x="157" yLocal="-7.1065518663950508e-15" y="-7.1065518663950508e-15"/>
+      <pt constSeg="false" x="1-27,80-144,147-156,158-159" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="0" name="Mosquito" displayOrder="0" width="100" anonymous="true" id="23">
