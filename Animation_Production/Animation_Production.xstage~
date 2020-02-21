@@ -800,47 +800,54 @@
     <column type="0" name="ATV-093EAD927C38FC41" displayOrder="0" width="100" anonymous="true" id="28">
      <elementSeq exposures="186-235" val="1" id="28"/>
     </column>
-    <column type="0" name="ATV-093F845D3C7DC61E" display="false" displayOrder="0" width="100" anonymous="true" id="29">
+    <column type="0" name="ATV-093F845D3C7DC61E" displayOrder="0" width="100" anonymous="true" id="29">
      <elementSeq exposures="236-247" val="1" id="29"/>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9EC" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="9.791643161029091" y="9.791643161029091"/>
      </points>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9ED" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="1.3194412770181034" y="1.3194412770181034"/>
      </points>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9EE" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="0" y="0"/>
      </points>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9EF" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="0.608043517280211" y="0.608043517280211"/>
      </points>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9F0" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="0.63441313682336453" y="0.63441313682336453"/>
      </points>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9F1" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="17.220941165041726" y="17.220941165041726"/>
      </points>
     </column>
     <column type="3" name="ATV-093F845D3C7DC9F2" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
+     <noFrames/>
      <points version="2">
       <pt constSeg="false" x="236" yLocal="6.5173951261570035e-14" y="6.5173951261570035e-14"/>
      </points>
