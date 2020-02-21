@@ -66,6 +66,7 @@
     <dwg name="61"/>
     <dwg name="62"/>
     <dwg name="63"/>
+    <dwg name="64"/>
    </drawings>
   </element>
   <element id="7" elementName="4" elementFolder="4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -334,6 +335,7 @@
     <dwg name="212"/>
     <dwg name="213"/>
     <dwg name="214"/>
+    <dwg name="215"/>
    </drawings>
   </element>
   <element id="23" elementName="SupportiveLine" elementFolder="SupportiveLine" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -426,6 +428,7 @@
   <scene name="Top" id="0938c647181629de" nbframes="1249" startFrame="1" stopFrame="1249">
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
+     <elementSeq exposures="247" val="64" id="1"/>
      <elementSeq exposures="256-266" val="12" id="1"/>
      <elementSeq exposures="267-299" val="13" id="1"/>
      <elementSeq exposures="300-323" val="14" id="1"/>
@@ -644,6 +647,7 @@
      <elementSeq exposures="233" val="211" id="22"/>
      <elementSeq exposures="234" val="212" id="22"/>
      <elementSeq exposures="236-246" val="213" id="22"/>
+     <elementSeq exposures="247" val="215" id="22"/>
     </column>
     <column type="3" name="ATV-093C47C65F297C85" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
