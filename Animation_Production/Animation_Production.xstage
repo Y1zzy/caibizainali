@@ -442,7 +442,7 @@
   <scene name="Top" id="0938c647181629de" nbframes="1249" startFrame="1" stopFrame="1249">
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
-     <elementSeq exposures="256-266" val="12" id="1"/>
+     <elementSeq exposures="266" val="12" id="1"/>
      <elementSeq exposures="267-299" val="13" id="1"/>
      <elementSeq exposures="300-323" val="14" id="1"/>
      <elementSeq exposures="324-352" val="15" id="1"/>
@@ -497,9 +497,7 @@
     <column type="0" name="ATV-0938C647181AD158" displayOrder="0" width="100" anonymous="true" id="11"/>
     <column type="0" name="ATV-0938C647181B4E6B" displayOrder="0" width="100" anonymous="true" id="12"/>
     <column type="0" name="ATV-0938C647181C7978" displayOrder="0" width="100" anonymous="true" id="13"/>
-    <column type="0" name="ATV-0938C647181CF759" displayOrder="0" width="100" anonymous="true" id="14">
-     <elementSeq exposures="265" val="1" id="14"/>
-    </column>
+    <column type="0" name="ATV-0938C647181CF759" displayOrder="0" width="100" anonymous="true" id="14"/>
     <column type="0" name="ATV-0938C647181E2C26" displayOrder="0" width="100" anonymous="true" id="15">
      <elementSeq exposures="300-323" val="1" id="15"/>
     </column>
