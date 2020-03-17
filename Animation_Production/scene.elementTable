@@ -22,4 +22,5 @@
  <element id="30" elementName="6" elementFolder="6" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="31" elementName="TemporaryCam7" elementFolder="TemporaryCam7" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="32" elementName="Tidyupline" elementFolder="Tidyupline" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="33" elementName="Tidyupline2" elementFolder="Tidyupline2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
