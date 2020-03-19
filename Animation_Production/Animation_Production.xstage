@@ -637,6 +637,14 @@
     <dwg name="507"/>
     <dwg name="508"/>
     <dwg name="509"/>
+    <dwg name="510"/>
+    <dwg name="511"/>
+    <dwg name="512"/>
+    <dwg name="513"/>
+    <dwg name="514"/>
+    <dwg name="515"/>
+    <dwg name="516"/>
+    <dwg name="517"/>
    </drawings>
   </element>
   <element id="23" elementName="SupportiveLine" elementFolder="SupportiveLine" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1465,6 +1473,13 @@
      <elementSeq exposures="558" val="507" id="22"/>
      <elementSeq exposures="559" val="508" id="22"/>
      <elementSeq exposures="560" val="509" id="22"/>
+     <elementSeq exposures="561" val="510" id="22"/>
+     <elementSeq exposures="562" val="511" id="22"/>
+     <elementSeq exposures="563" val="512" id="22"/>
+     <elementSeq exposures="564" val="513" id="22"/>
+     <elementSeq exposures="565" val="514" id="22"/>
+     <elementSeq exposures="566" val="515" id="22"/>
+     <elementSeq exposures="567" val="516" id="22"/>
     </column>
     <column type="3" name="ATV-093C47C65F297C85" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
