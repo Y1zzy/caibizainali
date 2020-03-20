@@ -74,6 +74,7 @@
     <dwg name="69"/>
     <dwg name="70"/>
     <dwg name="71"/>
+    <dwg name="72"/>
    </drawings>
   </element>
   <element id="7" elementName="4" elementFolder="4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -645,6 +646,7 @@
     <dwg name="515"/>
     <dwg name="516"/>
     <dwg name="517"/>
+    <dwg name="518"/>
    </drawings>
   </element>
   <element id="23" elementName="SupportiveLine" elementFolder="SupportiveLine" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -814,6 +816,7 @@
     <dwg name="163"/>
     <dwg name="164"/>
     <dwg name="165"/>
+    <dwg name="166"/>
    </drawings>
   </element>
   <element id="24" elementName="2" elementFolder="2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1007,6 +1010,11 @@
     <dwg name="9"/>
    </drawings>
   </element>
+  <element id="34" elementName="8" elementFolder="8.34" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -1025,8 +1033,7 @@
   <scene name="Top" id="0938c647181629de" nbframes="1249" startFrame="1" stopFrame="1249">
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
-     <elementSeq exposures="564-586" val="30" id="1"/>
-     <elementSeq exposures="587-610" val="31" id="1"/>
+     <elementSeq exposures="608-610" val="31" id="1"/>
      <elementSeq exposures="611-635" val="32" id="1"/>
      <elementSeq exposures="636-647" val="33" id="1"/>
      <elementSeq exposures="648-658" val="34" id="1"/>
@@ -1059,7 +1066,6 @@
     </column>
     <column type="0" name="ATV-0938C6471818D665" displayOrder="0" width="100" anonymous="true" id="7"/>
     <column type="0" name="ATV-0938C647181A02E6" displayOrder="0" width="100" anonymous="true" id="10"/>
-    <column type="0" name="ATV-0938C647181AD158" displayOrder="0" width="100" anonymous="true" id="11"/>
     <column type="0" name="ATV-0938C647181B4E6B" displayOrder="0" width="100" anonymous="true" id="12"/>
     <column type="0" name="ATV-0938C647181C7978" displayOrder="0" width="100" anonymous="true" id="13"/>
     <column type="0" name="ATV-0938C647181CF759" displayOrder="0" width="100" anonymous="true" id="14"/>
@@ -1480,6 +1486,7 @@
      <elementSeq exposures="565" val="514" id="22"/>
      <elementSeq exposures="566" val="515" id="22"/>
      <elementSeq exposures="567" val="516" id="22"/>
+     <elementSeq exposures="568" val="518" id="22"/>
     </column>
     <column type="3" name="ATV-093C47C65F297C85" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1682,6 +1689,7 @@
      <elementSeq exposures="530" val="163" id="23"/>
      <elementSeq exposures="531" val="164" id="23"/>
      <elementSeq exposures="532" val="165" id="23"/>
+     <elementSeq exposures="568" val="166" id="23"/>
     </column>
     <column type="3" name="ATV-093C4E16C995018D" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
@@ -1789,6 +1797,9 @@
     </column>
     <column type="0" name="ATV-0A1BD59280B01B31" displayOrder="0" width="100" anonymous="true" id="32">
      <elementSeq exposures="1" val="1" id="32"/>
+    </column>
+    <column type="0" name="ATV-09480B587E1A2D82" displayOrder="0" width="100" anonymous="true" id="34">
+     <elementSeq exposures="568-610" val="1" id="34"/>
     </column>
    </columns>
    <options>
@@ -3074,7 +3085,7 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
-     <module type="READ" name="8" pos="0,0,0" publishUnderTab="8">
+     <module type="READ" name="8_1" pos="0,0,0" publishUnderTab="8_1">
       <options>
        <collapsed val="false"/>
        <version val="1"/>
@@ -3134,7 +3145,7 @@
        <ikStiffness val="1" defaultValue="1"/>
        <drawing>
         <elementMode val="true"/>
-        <element col="ATV-0938C647181AD158">
+        <element col="ATV-09480B587E1A2D82">
          <layer/>
         </element>
         <customName>
@@ -4310,7 +4321,7 @@
      <link out="6" in="Composite" inport="10"/>
      <link out="TemporaryCam7" in="Composite" inport="9"/>
      <link out="7" in="Composite" inport="8"/>
-     <link out="8" in="Composite" inport="7"/>
+     <link out="8_1" in="Composite" inport="7"/>
      <link out="9" in="Composite" inport="6"/>
      <link out="11" in="Composite" inport="5"/>
      <link out="12" in="Composite" inport="4"/>
