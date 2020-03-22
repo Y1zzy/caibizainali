@@ -1982,7 +1982,7 @@
      <elementSeq exposures="1" val="1" id="32"/>
     </column>
     <column type="0" name="ATV-09480B587E1A2D82" displayOrder="0" width="100" anonymous="true" id="34">
-     <elementSeq exposures="568-578,583-610" val="1" id="34"/>
+     <elementSeq exposures="568-578,583-597" val="1" id="34"/>
     </column>
    </columns>
    <options>
