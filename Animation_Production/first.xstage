@@ -75,6 +75,9 @@
     <dwg name="70"/>
     <dwg name="71"/>
     <dwg name="72"/>
+    <dwg name="73"/>
+    <dwg name="74"/>
+    <dwg name="75"/>
    </drawings>
   </element>
   <element id="7" elementName="4" elementFolder="4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -658,6 +661,53 @@
     <dwg name="527"/>
     <dwg name="528"/>
     <dwg name="529"/>
+    <dwg name="530"/>
+    <dwg name="531"/>
+    <dwg name="532"/>
+    <dwg name="533"/>
+    <dwg name="534"/>
+    <dwg name="535"/>
+    <dwg name="536"/>
+    <dwg name="537"/>
+    <dwg name="538"/>
+    <dwg name="539"/>
+    <dwg name="540"/>
+    <dwg name="541"/>
+    <dwg name="542"/>
+    <dwg name="543"/>
+    <dwg name="544"/>
+    <dwg name="545"/>
+    <dwg name="546"/>
+    <dwg name="547"/>
+    <dwg name="548"/>
+    <dwg name="549"/>
+    <dwg name="550"/>
+    <dwg name="551"/>
+    <dwg name="552"/>
+    <dwg name="553"/>
+    <dwg name="554"/>
+    <dwg name="555"/>
+    <dwg name="556"/>
+    <dwg name="557"/>
+    <dwg name="558"/>
+    <dwg name="559"/>
+    <dwg name="560"/>
+    <dwg name="561"/>
+    <dwg name="562"/>
+    <dwg name="563"/>
+    <dwg name="564"/>
+    <dwg name="565"/>
+    <dwg name="566"/>
+    <dwg name="567"/>
+    <dwg name="568"/>
+    <dwg name="569"/>
+    <dwg name="570"/>
+    <dwg name="571"/>
+    <dwg name="572"/>
+    <dwg name="573"/>
+    <dwg name="574"/>
+    <dwg name="575"/>
+    <dwg name="576"/>
    </drawings>
   </element>
   <element id="23" elementName="SupportiveLine" elementFolder="SupportiveLine" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -840,6 +890,13 @@
     <dwg name="176"/>
     <dwg name="177"/>
     <dwg name="178"/>
+    <dwg name="179"/>
+    <dwg name="180"/>
+    <dwg name="181"/>
+    <dwg name="182"/>
+    <dwg name="183"/>
+    <dwg name="184"/>
+    <dwg name="185"/>
    </drawings>
   </element>
   <element id="24" elementName="2" elementFolder="2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1130,6 +1187,46 @@
     <dwg name="1"/>
    </drawings>
   </element>
+  <element id="35" elementName="9" elementFolder="9.35" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+   </drawings>
+  </element>
+  <element id="36" elementName="re-tidy" elementFolder="re-tidy" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+   </drawings>
+  </element>
  </elements>
  <options>
   <metrics unitAspectRatioX="4" unitAspectRatioY="3" numberOfUnitsX="24" numberOfUnitsY="24" numberOfUnitsZ="12"/>
@@ -1145,7 +1242,7 @@
  </options>
  <timelineMarkers/>
  <scenes>
-  <scene name="Top" id="0938c647181629de" nbframes="201" startFrame="64" stopFrame="110">
+  <scene name="Top" id="0938c647181629de" nbframes="201" startFrame="1" stopFrame="31">
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
      <elementSeq exposures="564-586" val="30" id="1"/>
@@ -1609,7 +1706,7 @@
       <pt constSeg="false" x="236,247-288" yLocal="0.38350237844875379" y="0.38350237844875379"/>
      </points>
     </column>
-    <column type="0" name="SupportiveLine" displayOrder="0" width="100" anonymous="true" id="23">
+    <column type="0" name="SupportiveLine" display="false" displayOrder="0" width="100" anonymous="true" id="23">
      <elementSeq exposures="64" val="13" id="23"/>
      <elementSeq exposures="65" val="14" id="23"/>
      <elementSeq exposures="66" val="15" id="23"/>
@@ -1831,7 +1928,7 @@
     <column type="0" name="ATV-09452268F368668F" displayOrder="0" width="100" anonymous="true" id="31">
      <elementSeq exposures="373-404" val="1" id="31"/>
     </column>
-    <column type="0" name="ATV-0A1BD59280B01B31" displayOrder="0" width="100" anonymous="true" id="32">
+    <column type="0" name="ATV-0A1BD59280B01B31" display="false" displayOrder="0" width="100" anonymous="true" id="32">
      <elementSeq exposures="1" val="70" id="32"/>
      <elementSeq exposures="2" val="71" id="32"/>
      <elementSeq exposures="3" val="72" id="32"/>
@@ -1973,7 +2070,7 @@
      <elementSeq exposures="200" val="209" id="32"/>
      <elementSeq exposures="201" val="210" id="32"/>
     </column>
-    <column type="0" name="ATV-0A1C59AABE51BAAB" displayOrder="0" width="100" anonymous="true" id="33">
+    <column type="0" name="ATV-0A1C59AABE51BAAB" display="false" displayOrder="0" width="100" anonymous="true" id="33">
      <elementSeq exposures="64" val="1" id="33"/>
      <elementSeq exposures="65" val="2" id="33"/>
      <elementSeq exposures="66" val="3" id="33"/>
@@ -1990,6 +2087,35 @@
      <elementSeq exposures="77" val="14" id="33"/>
      <elementSeq exposures="78" val="15" id="33"/>
      <elementSeq exposures="79" val="16" id="33"/>
+    </column>
+    <column type="0" name="ATV-0A1E4A504BF01FF9" displayOrder="0" width="100" anonymous="true" id="36">
+     <elementSeq exposures="1" val="1" id="36"/>
+     <elementSeq exposures="2" val="6" id="36"/>
+     <elementSeq exposures="3" val="7" id="36"/>
+     <elementSeq exposures="4" val="8" id="36"/>
+     <elementSeq exposures="5" val="9" id="36"/>
+     <elementSeq exposures="6" val="10" id="36"/>
+     <elementSeq exposures="7" val="11" id="36"/>
+     <elementSeq exposures="8" val="12" id="36"/>
+     <elementSeq exposures="9" val="13" id="36"/>
+     <elementSeq exposures="10" val="14" id="36"/>
+     <elementSeq exposures="11" val="15" id="36"/>
+     <elementSeq exposures="12" val="16" id="36"/>
+     <elementSeq exposures="13" val="17" id="36"/>
+     <elementSeq exposures="14" val="18" id="36"/>
+     <elementSeq exposures="15" val="19" id="36"/>
+     <elementSeq exposures="16" val="20" id="36"/>
+     <elementSeq exposures="17" val="21" id="36"/>
+     <elementSeq exposures="18" val="22" id="36"/>
+     <elementSeq exposures="19" val="23" id="36"/>
+     <elementSeq exposures="20" val="24" id="36"/>
+     <elementSeq exposures="21" val="25" id="36"/>
+     <elementSeq exposures="22" val="26" id="36"/>
+     <elementSeq exposures="23" val="27" id="36"/>
+     <elementSeq exposures="24" val="28" id="36"/>
+     <elementSeq exposures="25" val="29" id="36"/>
+     <elementSeq exposures="26" val="30" id="36"/>
+     <elementSeq exposures="27" val="31" id="36"/>
     </column>
    </columns>
    <options>
@@ -4277,6 +4403,7 @@
      </module>
      <module type="READ" name="SupportiveLine" pos="0,0,0" publishUnderTab="Title">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4388,6 +4515,7 @@
      </module>
      <module type="READ" name="Tidyupline" pos="0,0,0" publishUnderTab="Tidyupline">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4497,8 +4625,120 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="READ" name="re-tidy" pos="0,0,0" publishUnderTab="re-tidy">
+      <options>
+       <collapsed val="false"/>
+       <version val="1"/>
+      </options>
+      <attrs>
+       <enable3d val="false"/>
+       <faceCamera val="false"/>
+       <cameraAlignment val="NO_CAMERA_ALIGNMENT"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </offset>
+       <scale>
+        <separate val="true"/>
+        <inFields val="false"/>
+        <xy val="1" defaultValue="1"/>
+        <x val="1" defaultValue="1"/>
+        <y val="1" defaultValue="1"/>
+        <z val="1" defaultValue="1"/>
+       </scale>
+       <rotation>
+        <separate val="false"/>
+        <anglex val="0" defaultValue="0"/>
+        <angley val="0" defaultValue="0"/>
+        <anglez val="0" defaultValue="0"/>
+       </rotation>
+       <angle val="0" defaultValue="0"/>
+       <skew val="0" defaultValue="0"/>
+       <pivot>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </pivot>
+       <splineOffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+        <z val="0" defaultValue="0"/>
+       </splineOffset>
+       <ignoreParentPegScaling val="false"/>
+       <disableFieldRendering val="false"/>
+       <depth val="0"/>
+       <enableMinMaxAngle val="false"/>
+       <minAngle val="-360" defaultValue="-360"/>
+       <maxAngle val="360" defaultValue="360"/>
+       <nailForChildren val="false"/>
+       <ikHoldOrientation val="false"/>
+       <ikHoldX val="false"/>
+       <ikHoldY val="false"/>
+       <ikExcluded val="false"/>
+       <ikCanRotate val="true"/>
+       <ikCanTranslateX val="false"/>
+       <ikCanTranslateY val="false"/>
+       <ikBoneX val="0.20000000000000001" defaultValue="0.20000000000000001"/>
+       <ikBoneY val="0" defaultValue="0"/>
+       <ikStiffness val="1" defaultValue="1"/>
+       <drawing>
+        <elementMode val="true"/>
+        <element col="ATV-0A1E4A504BF01FF9">
+         <layer/>
+        </element>
+        <customName>
+         <name/>
+         <extension val="tga"/>
+         <fieldChart val="12" defaultValue="12"/>
+        </customName>
+       </drawing>
+       <readOverlay val="true"/>
+       <readLineArt val="true"/>
+       <readColorArt val="true"/>
+       <readUnderlay val="true"/>
+       <overlayArtDrawingMode val="VectorDrawingMode"/>
+       <lineArtDrawingMode val="VectorDrawingMode"/>
+       <colorArtDrawingMode val="VectorDrawingMode"/>
+       <underlayArtDrawingMode val="VectorDrawingMode"/>
+       <pencilLineDeformationPreserveThickness val="false"/>
+       <pencilLineDeformationQuality val="Low"/>
+       <pencilLineDeformationSmooth val="1"/>
+       <pencilLineDeformationFitError val="3" defaultValue="3"/>
+       <readColor val="true"/>
+       <readTransparency val="true"/>
+       <colorTransformation val="Linear"/>
+       <applyMatteToColor val="N"/>
+       <enableLineTexture val="true"/>
+       <antialiasingQuality val="HIGH"/>
+       <antialiasingExponent val="1" defaultValue="1"/>
+       <opacity val="100" defaultValue="100"/>
+       <textureFilter val="NEAREST_FILTERED"/>
+       <adjustPencilThickness val="false"/>
+       <normalLineArtThickness val="true"/>
+       <zoomIndependentLineArtThickness val="true"/>
+       <multLineArtThickness val="1" defaultValue="1"/>
+       <addLineArtThickness val="0" defaultValue="0"/>
+       <minLineArtThickness val="0" defaultValue="0"/>
+       <maxLineArtThickness val="0" defaultValue="0"/>
+       <useDrawingPivot val="APPLY_ON_READ_TRANSFORM"/>
+       <flipHor val="false"/>
+       <flipVert val="false"/>
+       <turnBeforeAlignment val="false"/>
+       <noClipping val="false"/>
+       <xClipFactor val="0"/>
+       <yClipFactor val="0"/>
+       <alignmentRule val="CENTER_FIRST_PAGE"/>
+       <morphingVelo val="0" defaultValue="0"/>
+       <canAnimate val="true"/>
+       <tileHorizontal val="false"/>
+       <tileVertical val="false"/>
+      </attrs>
+     </module>
      <module type="READ" name="Tidyupline2" pos="0,0,0" publishUnderTab="Tidyupline2">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -4608,6 +4848,31 @@
        <tileVertical val="false"/>
       </attrs>
      </module>
+     <module type="GameBoneModule" name="GameBone" pos="0,0,0" publishUnderTab="GameBone">
+      <options>
+       <collapsed val="false"/>
+       <version val="2"/>
+      </options>
+      <attrs>
+       <restoffset>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+       </restoffset>
+       <restorientation val="0" defaultValue="0"/>
+       <restradius val="0.5" defaultValue="0.5"/>
+       <restbias val="0.45000000000000001" defaultValue="0.45000000000000001"/>
+       <restlength val="3" defaultValue="3"/>
+       <offset>
+        <separate val="true"/>
+        <x val="0" defaultValue="0"/>
+        <y val="0" defaultValue="0"/>
+       </offset>
+       <orientation val="0" defaultValue="0"/>
+       <radius val="0.5" defaultValue="0.5"/>
+       <bias val="0.45000000000000001" defaultValue="0.45000000000000001"/>
+       <length val="3" defaultValue="3"/>
+      </attrs>
+     </module>
     </nodeslist>
     <linkedlist>
      <link out="Composite" in="Display"/>
@@ -4634,6 +4899,7 @@
      <link out="Line" in="Composite" inport="19"/>
      <link out="SupportiveLine" in="Composite" inport="20"/>
      <link out="Tidyupline" in="Composite" inport="21"/>
+     <link out="re-tidy" in="Composite" inport="23"/>
      <link out="Tidyupline2" in="Composite" inport="22"/>
     </linkedlist>
    </rootgroup>
