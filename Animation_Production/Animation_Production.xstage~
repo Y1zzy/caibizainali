@@ -727,6 +727,14 @@
     <dwg name="592"/>
     <dwg name="593"/>
     <dwg name="594"/>
+    <dwg name="595"/>
+    <dwg name="596"/>
+    <dwg name="597"/>
+    <dwg name="598"/>
+    <dwg name="599"/>
+    <dwg name="600"/>
+    <dwg name="601"/>
+    <dwg name="602"/>
    </drawings>
   </element>
   <element id="23" elementName="SupportiveLine" elementFolder="SupportiveLine" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1234,10 +1242,7 @@
   <scene name="Top" id="0938c647181629de" nbframes="1249" startFrame="1" stopFrame="1249">
    <columns>
     <column type="0" name="Outline" displayOrder="0" width="100" anonymous="true" id="1">
-     <elementSeq exposures="646-647" val="33" id="1"/>
-     <elementSeq exposures="648-658" val="34" id="1"/>
-     <elementSeq exposures="659" val="35" id="1"/>
-     <elementSeq exposures="660-683" val="36" id="1"/>
+     <elementSeq exposures="664-683" val="36" id="1"/>
      <elementSeq exposures="684-695" val="37" id="1"/>
      <elementSeq exposures="696-707" val="38" id="1"/>
      <elementSeq exposures="708-744" val="39" id="1"/>
@@ -1755,6 +1760,13 @@
      <elementSeq exposures="643" val="592" id="22"/>
      <elementSeq exposures="644" val="593" id="22"/>
      <elementSeq exposures="645" val="594" id="22"/>
+     <elementSeq exposures="646" val="595" id="22"/>
+     <elementSeq exposures="647" val="596" id="22"/>
+     <elementSeq exposures="648" val="599" id="22"/>
+     <elementSeq exposures="649" val="600" id="22"/>
+     <elementSeq exposures="650" val="598" id="22"/>
+     <elementSeq exposures="651" val="601" id="22"/>
+     <elementSeq exposures="652" val="602" id="22"/>
     </column>
     <column type="3" name="ATV-093C47C65F297C85" displayOrder="0" width="100" anonymous="true">
      <step val="1" start="1" stop="1"/>
