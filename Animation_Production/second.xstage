@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Essentials (HarmonyEssentials.exe) version 17.0.1 build 15085 2019-09-05 02:11:18" version="1701" build="15085" creator="harmony">
+<project source="Harmony Essentials (Harmony Essentials) version 17.0.2 build 15414 2020-01-17 22:03:01" version="1702" build="15414" creator="harmony">
  <elements>
   <element id="1" elementName="Outline" elementFolder="Outline" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -1575,7 +1575,7 @@
  <scenes>
   <scene name="Top" id="0938c647181629de" nbframes="401" startFrame="200" stopFrame="400">
    <columns>
-    <column type="0" name="ATV-093C2543F97094A4" displayOrder="0" width="100" anonymous="true" id="22">
+    <column type="0" name="ATV-093C2543F97094A4" display="false" displayOrder="0" width="100" anonymous="true" id="22">
      <elementSeq exposures="200" val="165" id="22"/>
      <elementSeq exposures="201" val="166" id="22"/>
      <elementSeq exposures="202" val="167" id="22"/>
@@ -2907,6 +2907,7 @@
      </module>
      <module type="READ" name="Line" pos="0,0,0" publishUnderTab="Line">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3396,7 +3397,7 @@
   </scene>
  </scenes>
  <symbols>
-  <folder name="元件">
+  <folder name="Symbols">
    <scene id="0938c647181629de"/>
   </folder>
  </symbols>
