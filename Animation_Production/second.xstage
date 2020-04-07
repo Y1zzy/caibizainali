@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project source="Harmony Essentials (Harmony Essentials) version 17.0.2 build 15414 2020-01-17 22:03:01" version="1702" build="15414" creator="harmony">
+<project source="Harmony Essentials (HarmonyEssentials.exe) version 17.0.1 build 15085 2019-09-05 02:11:18" version="1701" build="15085" creator="harmony">
  <elements>
   <element id="1" elementName="Outline" elementFolder="Outline" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
    <drawings>
@@ -1427,6 +1427,7 @@
     <dwg name="87"/>
     <dwg name="88"/>
     <dwg name="9"/>
+    <dwg name="89"/>
    </drawings>
   </element>
   <element id="42" elementName="bg" elementFolder="bg" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -1556,6 +1557,224 @@
     <dwg name="113"/>
     <dwg name="114"/>
     <dwg name="115"/>
+    <dwg name="116"/>
+    <dwg name="117"/>
+    <dwg name="118"/>
+    <dwg name="119"/>
+    <dwg name="120"/>
+    <dwg name="121"/>
+    <dwg name="122"/>
+    <dwg name="123"/>
+    <dwg name="124"/>
+    <dwg name="125"/>
+    <dwg name="126"/>
+    <dwg name="127"/>
+    <dwg name="128"/>
+    <dwg name="129"/>
+    <dwg name="130"/>
+    <dwg name="131"/>
+    <dwg name="132"/>
+    <dwg name="133"/>
+    <dwg name="134"/>
+    <dwg name="135"/>
+    <dwg name="136"/>
+    <dwg name="137"/>
+    <dwg name="138"/>
+    <dwg name="139"/>
+    <dwg name="140"/>
+    <dwg name="141"/>
+    <dwg name="142"/>
+    <dwg name="143"/>
+    <dwg name="144"/>
+    <dwg name="145"/>
+    <dwg name="146"/>
+    <dwg name="147"/>
+    <dwg name="148"/>
+    <dwg name="149"/>
+    <dwg name="150"/>
+    <dwg name="151"/>
+    <dwg name="152"/>
+    <dwg name="153"/>
+    <dwg name="154"/>
+    <dwg name="155"/>
+    <dwg name="156"/>
+    <dwg name="157"/>
+    <dwg name="158"/>
+    <dwg name="159"/>
+    <dwg name="160"/>
+    <dwg name="161"/>
+    <dwg name="162"/>
+    <dwg name="163"/>
+    <dwg name="164"/>
+    <dwg name="165"/>
+    <dwg name="166"/>
+    <dwg name="167"/>
+    <dwg name="168"/>
+    <dwg name="169"/>
+    <dwg name="170"/>
+    <dwg name="171"/>
+    <dwg name="172"/>
+    <dwg name="173"/>
+    <dwg name="174"/>
+    <dwg name="175"/>
+    <dwg name="176"/>
+    <dwg name="177"/>
+    <dwg name="178"/>
+    <dwg name="179"/>
+    <dwg name="180"/>
+    <dwg name="181"/>
+    <dwg name="182"/>
+    <dwg name="183"/>
+    <dwg name="184"/>
+    <dwg name="185"/>
+    <dwg name="186"/>
+    <dwg name="187"/>
+    <dwg name="188"/>
+    <dwg name="189"/>
+    <dwg name="190"/>
+    <dwg name="191"/>
+    <dwg name="192"/>
+    <dwg name="193"/>
+    <dwg name="194"/>
+    <dwg name="195"/>
+    <dwg name="196"/>
+    <dwg name="197"/>
+    <dwg name="198"/>
+    <dwg name="199"/>
+    <dwg name="200"/>
+    <dwg name="201"/>
+    <dwg name="202"/>
+    <dwg name="203"/>
+   </drawings>
+  </element>
+  <element id="44" elementName="coloring" elementFolder="coloring" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="2"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="26"/>
+    <dwg name="27"/>
+    <dwg name="28"/>
+    <dwg name="29"/>
+    <dwg name="3"/>
+    <dwg name="30"/>
+    <dwg name="31"/>
+    <dwg name="32"/>
+    <dwg name="33"/>
+    <dwg name="34"/>
+    <dwg name="35"/>
+    <dwg name="36"/>
+    <dwg name="37"/>
+    <dwg name="38"/>
+    <dwg name="39"/>
+    <dwg name="4"/>
+    <dwg name="40"/>
+    <dwg name="41"/>
+    <dwg name="42"/>
+    <dwg name="43"/>
+    <dwg name="44"/>
+    <dwg name="45"/>
+    <dwg name="46"/>
+    <dwg name="47"/>
+    <dwg name="48"/>
+    <dwg name="49"/>
+    <dwg name="5"/>
+    <dwg name="50"/>
+    <dwg name="51"/>
+    <dwg name="52"/>
+    <dwg name="53"/>
+    <dwg name="54"/>
+    <dwg name="55"/>
+    <dwg name="56"/>
+    <dwg name="57"/>
+    <dwg name="58"/>
+    <dwg name="59"/>
+    <dwg name="6"/>
+    <dwg name="60"/>
+    <dwg name="61"/>
+    <dwg name="62"/>
+    <dwg name="63"/>
+    <dwg name="64"/>
+    <dwg name="65"/>
+    <dwg name="66"/>
+    <dwg name="67"/>
+    <dwg name="68"/>
+    <dwg name="69"/>
+    <dwg name="7"/>
+    <dwg name="70"/>
+    <dwg name="71"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+   </drawings>
+  </element>
+  <element id="45" elementName="Drawing_1" elementFolder="Drawing_1.45" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="2"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+   </drawings>
+  </element>
+  <element id="46" elementName="supportdrawing" elementFolder="supportdrawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="10"/>
+    <dwg name="11"/>
+    <dwg name="12"/>
+    <dwg name="13"/>
+    <dwg name="14"/>
+    <dwg name="15"/>
+    <dwg name="16"/>
+    <dwg name="17"/>
+    <dwg name="18"/>
+    <dwg name="19"/>
+    <dwg name="2"/>
+    <dwg name="20"/>
+    <dwg name="21"/>
+    <dwg name="22"/>
+    <dwg name="23"/>
+    <dwg name="24"/>
+    <dwg name="25"/>
+    <dwg name="3"/>
+    <dwg name="4"/>
+    <dwg name="5"/>
+    <dwg name="6"/>
+    <dwg name="7"/>
+    <dwg name="8"/>
+    <dwg name="9"/>
+   </drawings>
+  </element>
+  <element id="47" elementName="beneath" elementFolder="beneath" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
+   <drawings>
+    <dwg name="1"/>
+    <dwg name="2"/>
    </drawings>
   </element>
  </elements>
@@ -1944,7 +2163,7 @@
       <pt constSeg="false" x="236,247-288" yLocal="0.38350237844875379" y="0.38350237844875379"/>
      </points>
     </column>
-    <column type="0" name="SupportiveLine" displayOrder="0" width="100" anonymous="true" id="23">
+    <column type="0" name="SupportiveLine" display="false" displayOrder="0" width="100" anonymous="true" id="23">
      <elementSeq exposures="200-225" val="31" id="23"/>
      <elementSeq exposures="226" val="35" id="23"/>
      <elementSeq exposures="227,228-229,230,231,232,235" val="34" id="23"/>
@@ -2286,6 +2505,93 @@
      <elementSeq exposures="312" val="113" id="43"/>
      <elementSeq exposures="313" val="114" id="43"/>
      <elementSeq exposures="314" val="115" id="43"/>
+     <elementSeq exposures="315" val="116" id="43"/>
+     <elementSeq exposures="316" val="117" id="43"/>
+     <elementSeq exposures="317" val="118" id="43"/>
+     <elementSeq exposures="318" val="119" id="43"/>
+     <elementSeq exposures="319" val="120" id="43"/>
+     <elementSeq exposures="320" val="121" id="43"/>
+     <elementSeq exposures="321" val="122" id="43"/>
+     <elementSeq exposures="322" val="123" id="43"/>
+     <elementSeq exposures="323" val="124" id="43"/>
+     <elementSeq exposures="324" val="125" id="43"/>
+     <elementSeq exposures="325" val="126" id="43"/>
+     <elementSeq exposures="326" val="127" id="43"/>
+     <elementSeq exposures="327" val="128" id="43"/>
+     <elementSeq exposures="328" val="129" id="43"/>
+     <elementSeq exposures="329" val="130" id="43"/>
+     <elementSeq exposures="330" val="131" id="43"/>
+     <elementSeq exposures="331" val="132" id="43"/>
+     <elementSeq exposures="332" val="133" id="43"/>
+     <elementSeq exposures="333" val="134" id="43"/>
+     <elementSeq exposures="334" val="135" id="43"/>
+     <elementSeq exposures="335" val="136" id="43"/>
+     <elementSeq exposures="336" val="137" id="43"/>
+     <elementSeq exposures="337" val="138" id="43"/>
+     <elementSeq exposures="338" val="139" id="43"/>
+     <elementSeq exposures="339" val="140" id="43"/>
+     <elementSeq exposures="340" val="141" id="43"/>
+     <elementSeq exposures="341" val="142" id="43"/>
+     <elementSeq exposures="342" val="143" id="43"/>
+     <elementSeq exposures="343" val="144" id="43"/>
+     <elementSeq exposures="344" val="145" id="43"/>
+     <elementSeq exposures="345" val="146" id="43"/>
+     <elementSeq exposures="346" val="147" id="43"/>
+     <elementSeq exposures="347" val="148" id="43"/>
+     <elementSeq exposures="348" val="149" id="43"/>
+     <elementSeq exposures="349" val="150" id="43"/>
+     <elementSeq exposures="350" val="151" id="43"/>
+     <elementSeq exposures="351" val="152" id="43"/>
+     <elementSeq exposures="352" val="153" id="43"/>
+     <elementSeq exposures="353" val="154" id="43"/>
+     <elementSeq exposures="354" val="155" id="43"/>
+     <elementSeq exposures="355" val="156" id="43"/>
+     <elementSeq exposures="356" val="157" id="43"/>
+     <elementSeq exposures="357" val="158" id="43"/>
+     <elementSeq exposures="358" val="159" id="43"/>
+     <elementSeq exposures="359" val="160" id="43"/>
+     <elementSeq exposures="360" val="161" id="43"/>
+     <elementSeq exposures="361" val="162" id="43"/>
+     <elementSeq exposures="362" val="163" id="43"/>
+     <elementSeq exposures="363" val="164" id="43"/>
+     <elementSeq exposures="364" val="165" id="43"/>
+     <elementSeq exposures="365" val="166" id="43"/>
+     <elementSeq exposures="366" val="167" id="43"/>
+     <elementSeq exposures="367" val="168" id="43"/>
+     <elementSeq exposures="368" val="169" id="43"/>
+     <elementSeq exposures="369" val="170" id="43"/>
+     <elementSeq exposures="370" val="171" id="43"/>
+     <elementSeq exposures="371" val="172" id="43"/>
+     <elementSeq exposures="372" val="173" id="43"/>
+     <elementSeq exposures="373" val="174" id="43"/>
+     <elementSeq exposures="374" val="175" id="43"/>
+     <elementSeq exposures="375" val="176" id="43"/>
+     <elementSeq exposures="376" val="177" id="43"/>
+     <elementSeq exposures="377" val="178" id="43"/>
+     <elementSeq exposures="378" val="179" id="43"/>
+     <elementSeq exposures="379" val="180" id="43"/>
+     <elementSeq exposures="380" val="181" id="43"/>
+     <elementSeq exposures="381" val="182" id="43"/>
+     <elementSeq exposures="382" val="183" id="43"/>
+     <elementSeq exposures="383" val="184" id="43"/>
+     <elementSeq exposures="384" val="185" id="43"/>
+     <elementSeq exposures="385" val="186" id="43"/>
+     <elementSeq exposures="386" val="187" id="43"/>
+     <elementSeq exposures="387" val="188" id="43"/>
+     <elementSeq exposures="388" val="189" id="43"/>
+     <elementSeq exposures="389" val="191" id="43"/>
+     <elementSeq exposures="390" val="192" id="43"/>
+     <elementSeq exposures="391" val="193" id="43"/>
+     <elementSeq exposures="392" val="194" id="43"/>
+     <elementSeq exposures="393" val="195" id="43"/>
+     <elementSeq exposures="394" val="196" id="43"/>
+     <elementSeq exposures="395" val="197" id="43"/>
+     <elementSeq exposures="396" val="198" id="43"/>
+     <elementSeq exposures="397" val="199" id="43"/>
+     <elementSeq exposures="398" val="200" id="43"/>
+     <elementSeq exposures="399" val="201" id="43"/>
+     <elementSeq exposures="400" val="202" id="43"/>
+     <elementSeq exposures="401" val="203" id="43"/>
     </column>
    </columns>
    <options>
@@ -3019,6 +3325,7 @@
      </module>
      <module type="READ" name="SupportiveLine" pos="0,0,0" publishUnderTab="Title">
       <options>
+       <disabled val="true"/>
        <collapsed val="false"/>
        <version val="1"/>
       </options>
@@ -3397,7 +3704,7 @@
   </scene>
  </scenes>
  <symbols>
-  <folder name="Symbols">
+  <folder name="元件">
    <scene id="0938c647181629de"/>
   </folder>
  </symbols>
