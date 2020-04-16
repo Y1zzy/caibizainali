@@ -14,3 +14,4 @@ Solid    "Yizzy's Clothes"          0x094dbfe8f9f4d00e  89  66 107 255
 Solid    "Girl's Hair"              0x094dbfe8f9f64167 254 167  13 255
 Solid    "Guotian's Clothes"        0x094dbfe8f9f7a525 203 129 129 255
 Solid    "New 0"                    0x094fa7001c2c9040 213  95  21 255
+Solid    Explosion                  0x095161a87d307513 160 160 160 255
