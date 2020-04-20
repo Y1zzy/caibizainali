@@ -37,9 +37,5 @@
  <element id="47" elementName="beneath" elementFolder="beneath" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="48" elementName="Drawing_1" elementFolder="Drawing_1.48" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="49" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-<<<<<<< refs/remotes/origin/master
  <element id="50" elementName="shade" elementFolder="shade" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
-=======
- <element id="50" elementName="COLORING" elementFolder="COLORING.50" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
->>>>>>> COLOR
 </elements>
