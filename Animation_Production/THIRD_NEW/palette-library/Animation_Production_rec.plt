@@ -1,0 +1,10 @@
+ToonBoomAnimationInc PaletteFile 2
+Solid    White                      0x0938c647181629ed 255 255 255 255
+Solid    "Yizzy's Pants/MosquitoBodyLaptop" 0x094dbfe8f9f3e895  67  67  67 255
+Solid    Pen/Laptop                 0x0938c647181629eb   0   0   0 255
+Solid    "Shawn's Clothes"          0x0938c647181629ef 255   0   0 255
+Solid    "Shawn's Hair"             0x093c2302d06c16f8 255 113  28 255
+Solid    "Shawn/Girl's Skin"        0x093c2302d06c8822 254 195 150 255
+Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
+Solid    BookCover                  0x0938c647181629f3   0   0 255 255
+Solid    Explosion                  0x095161a87d307513 160 160 160 255
