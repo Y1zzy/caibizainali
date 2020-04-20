@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<elements source="Harmony Essentials (Harmony Essentials) version 17.0.2 build 15414 2020-01-17 22:03:01" version="1702" build="15414">
+<elements source="Harmony Essentials (HarmonyEssentials.exe) version 17.0.2 build 15414 2020-01-17 22:06:06" version="1702" build="15414">
  <element id="1" elementName="Outline" elementFolder="Outline" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="7" elementName="4" elementFolder="4" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="10" elementName="7" elementFolder="7" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
@@ -37,5 +37,9 @@
  <element id="47" elementName="beneath" elementFolder="beneath" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="48" elementName="Drawing_1" elementFolder="Drawing_1.48" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="49" elementName="Drawing_2" elementFolder="Drawing_2" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+<<<<<<< refs/remotes/origin/master
  <element id="50" elementName="shade" elementFolder="shade" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+=======
+ <element id="50" elementName="COLORING" elementFolder="COLORING.50" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+>>>>>>> COLOR
 </elements>
