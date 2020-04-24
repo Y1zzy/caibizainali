@@ -22,3 +22,5 @@ Solid    "Girl's Hair shade"        0x0952a950f492b1f2 187 118   0 255
 Solid    "Guotian's Clothes"        0x0952a950f494937d 190 115  97 255
 Solid    "Shawn's Hair shade"       0x0952a950f499b24e 255  89   9 255
 Solid    "Shawn's Clothes"          0x0952a950f499b3f0 109   5   5 255
+Solid    Green                      0x0938c647181629f1   0 255   0 255
+Solid    "New 0"                    0x094fa7001c2c9040 213  95  21 255
