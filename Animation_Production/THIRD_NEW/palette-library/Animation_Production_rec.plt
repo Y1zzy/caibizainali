@@ -8,3 +8,12 @@ Solid    "Shawn/Girl's Skin"        0x093c2302d06c8822 254 195 150 255
 Solid    "Vectorized Line"          0x0000000000000003   0   0   0 255
 Solid    BookCover                  0x0938c647181629f3   0   0 255 255
 Solid    Explosion                  0x095161a87d307513 160 160 160 255
+Solid    "New 0"                    0x095587db42e71a5a  91   4   4 255
+Solid    "New 1"                    0x095587db42e83515 214 244 250 255
+Solid    hair                       0x09558bcdaf0e352b 254 167  13 255
+Solid    "Skin Shade"               0x09558bcdaf0e3e0a 140  69  53 128
+Solid    "Clothes Shade"            0x09558bcdaf0e3e3d  61  52  69 255
+Solid    "S C"                      0x09558bcdaf0e5733 109   5   5 255
+Solid    GHS                        0x09558bcdaf0e5d9d 184 118   0 255
+Solid    "Shawn HS"                 0x09558bcdaf0e6d5a 255  89   9 255
+Solid    "New 0"                    0x09558f04bf63135d 191 134  94 255
