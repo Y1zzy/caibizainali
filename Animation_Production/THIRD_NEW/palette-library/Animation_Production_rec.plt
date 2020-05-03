@@ -18,3 +18,4 @@ Solid    GHS                        0x09558bcdaf0e5d9d 184 118   0 255
 Solid    "Shawn HS"                 0x09558bcdaf0e6d5a 255  89   9 255
 Solid    "New 0"                    0x09558f04bf63135d 191 134  94 255
 Solid    "New 0"                    0x09561921e12513c7 214   0   0 148
+Solid    deskshade                  0x0956c9132961992a 127  71  28 255
