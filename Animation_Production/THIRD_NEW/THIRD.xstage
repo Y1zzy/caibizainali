@@ -2926,6 +2926,12 @@
     <dwg name="244"/>
     <dwg name="245"/>
     <dwg name="246"/>
+    <dwg name="247"/>
+    <dwg name="248"/>
+    <dwg name="249"/>
+    <dwg name="250"/>
+    <dwg name="251"/>
+    <dwg name="252"/>
    </drawings>
   </element>
   <element id="54" elementName="supportcolor" elementFolder="supportcolor" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements">
@@ -4373,9 +4379,15 @@
      <elementSeq exposures="661" val="224" id="53"/>
      <elementSeq exposures="662" val="225" id="53"/>
      <elementSeq exposures="663" val="226" id="53"/>
+     <elementSeq exposures="664-668" val="251" id="53"/>
+     <elementSeq exposures="669" val="252" id="53"/>
      <elementSeq exposures="670" val="227" id="53"/>
      <elementSeq exposures="671" val="228" id="53"/>
      <elementSeq exposures="672" val="229" id="53"/>
+     <elementSeq exposures="673" val="247" id="53"/>
+     <elementSeq exposures="674" val="248" id="53"/>
+     <elementSeq exposures="675" val="249" id="53"/>
+     <elementSeq exposures="676" val="250" id="53"/>
      <elementSeq exposures="677" val="230" id="53"/>
      <elementSeq exposures="678" val="231" id="53"/>
      <elementSeq exposures="679" val="232" id="53"/>
